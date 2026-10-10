@@ -1,0 +1,10 @@
+Ticker: BZ=F   Period: 2010-03-16 to 2026-10-09
+MA windows: 20 / 50
+
+                  Strategy  Buy & hold
+Total return        206.3%       34.4%
+Annual return         7.1%        1.8%
+Max drawdown        -49.1%      -84.7%
+
+Number of trades: 42
+Win rate: 38.1%
